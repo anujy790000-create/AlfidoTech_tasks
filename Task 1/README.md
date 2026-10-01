@@ -13,10 +13,10 @@ This task demonstrates core Python skills including:
 ## 📸 Screenshots
 
 ### Code Execution in VS Code
-![VS Code Screenshot](link-to-your-screenshot-here)
+![VS Code Screenshot](https://github.com/.../Output%201.png?raw=true)
 
 ### Terminal Output
-![Terminal Output](link-to-your-screenshot-here)
+![Terminal Output](https://github.com/.../Output%202.png?raw=true)
 
 ## 📖 Explanation of the Code
 * **File Handling:** The script uses `open()` with `'w'` and `'r'` modes to write and read both TXT and CSV files.
